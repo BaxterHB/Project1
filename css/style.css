@@ -151,3 +151,11 @@ nav a:hover{
 .padded{
 	padding: 20px; /* I add this to cells to add a little padding*/
 }
+
+footer{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #0E0b16;
+	color: #E7DFDD;
+
+}
